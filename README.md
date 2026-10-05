@@ -2,6 +2,8 @@
 
 Give every new terminal tab its own color and name.
 
+![A new Terminal.app window opening with a random background tint, labeled banner, and prompt watermark](assets/demo.gif)
+
 Open a terminal, get a random dark background tint, the directory name in the
 tab title, a colored banner, and a little `▌ label` watermark on the right
 side of every prompt. Open five terminals, get five different colors — no more
