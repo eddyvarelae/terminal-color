@@ -21,6 +21,16 @@ Open a new terminal. That's it.
 The first time, macOS may ask to allow Terminal to control itself
 (Automation permission) — that's the AppleScript that tints the background.
 
+### Let an AI do it
+
+Using Claude Code or another AI coding agent? Paste this:
+
+> Clone https://github.com/eddyvarelae/terminal-color and follow its
+> AGENTS.md to set it up for me.
+
+The agent will ask before touching your `~/.zshrc`, verify the install, and
+give you the commands when it's done.
+
 ## Usage
 
 New terminals color themselves automatically. The commands are for when you
